@@ -1,4 +1,4 @@
-![Frontend Visual Roadmap]([frontend_visual_roadmap.jpg](https://roadmap.sh/frontend))
+![Frontend Visual Roadmap]([frontend_visual_roadmap.jpg](https://roadmap.sh/frontend)
 
 # 🌐 Comprehensive Frontend Developer Roadmap (General)
 
